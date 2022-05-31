@@ -1,0 +1,10 @@
+name: KnockbackFFA
+version: '${project.version}'
+main: me.james.knockbackffa.Main
+api-version: 1.8.8
+authors: [ James ]
+description: Spigot minigame plugin
+depends: [speedcubingLib]
+commands:
+  invsort:
+    usage: /<command>
